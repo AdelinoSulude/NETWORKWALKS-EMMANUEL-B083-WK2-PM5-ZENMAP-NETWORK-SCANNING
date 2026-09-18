@@ -64,7 +64,7 @@ Scan the local subnet to identify live hosts/PCs.
 Zenmap was used to discover active hosts within the local subnet.
 
 📸 **Evidence:** Zenmap host discovery results.
-
+![ZenMap Installation](screenshots/ZenMap-task2-3.jpg)
 ---
 
 ### 4. Number of Live Hosts
@@ -72,11 +72,11 @@ Zenmap was used to discover active hosts within the local subnet.
 **Total live hosts identified:**
 
 ```text
-[INSERT NUMBER]
+2
 ```
 
 📸 **Evidence:** Zenmap scan results showing the discovered hosts.
-
+![ZenMap Installation](screenshots/ZenMap-task2-3.jpg)
 ---
 
 ### 5. IP Addresses of Live Hosts
@@ -85,14 +85,11 @@ The following IP addresses were identified during the network scan:
 
 | No. | IP Address |
 |---:|---|
-| 1 | `[INSERT IP]` |
-| 2 | `[INSERT IP]` |
-| 3 | `[INSERT IP]` |
-| 4 | `[INSERT IP]` |
-| 5 | `[INSERT IP]` |
+| 1 | `[10.149.196.94]` |
+| 2 | `[10.149.196.116]` |
 
 📸 **Evidence:** Zenmap host list.
-
+![ZenMap Installation](screenshots/ZenMap-task2-3.jpg)
 ---
 
 ### 6. MAC Addresses of Live Hosts
@@ -101,14 +98,11 @@ The MAC addresses identified during the scan were documented as follows:
 
 | No. | IP Address | MAC Address |
 |---:|---|---|
-| 1 | `[INSERT IP]` | `[INSERT MAC]` |
-| 2 | `[INSERT IP]` | `[INSERT MAC]` |
-| 3 | `[INSERT IP]` | `[INSERT MAC]` |
-| 4 | `[INSERT IP]` | `[INSERT MAC]` |
-| 5 | `[INSERT IP]` | `[INSERT MAC]` |
+| 1 | `[10.149.196.94]` | `[C6:28:4E:44:F9:4A]` |
+| 2 | `[10.149.196.116]` | `[3E-C2-B1-E0-BC-19]` |
 
 📸 **Evidence:** Zenmap scan results showing MAC addresses.
-
+![ZenMap Installation](screenshots/ZenMap-task2-3.jpg)
 ---
 
 ### 7. Network Topology
