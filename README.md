@@ -112,20 +112,8 @@ The Zenmap network topology was generated from the scan results and exported to 
 📸 **Evidence:** Zenmap topology screenshot.
 ![ZenMap Installation](screenshots/ZenMap-task2-4.jpg)
 ![ZenMap Installation](screenshots/ZenMap-task2-5.jpg)
-📄 **Output:** `zenmap-network-topology.pdf`
+📄 **Output:** `![ZenMap Installation](screenshots/ZenMap-topology.pdf)`
 ![ZenMap Installation](screenshots/ZenMap-topology.pdf)
----
-
-## 📊 Scan Summary
-
-| Item | Result |
-|---|---|
-| Local IP | `[INSERT IP]` |
-| LAN Subnet | `[INSERT SUBNET]` |
-| Live Hosts | `[INSERT NUMBER]` |
-| Network Scanner | Zenmap |
-| Output | Network topology PDF |
-
 ---
 
 ## 💡 Key Takeaways
