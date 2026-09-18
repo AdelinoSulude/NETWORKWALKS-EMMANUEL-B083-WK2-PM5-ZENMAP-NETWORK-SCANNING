@@ -159,7 +159,7 @@ All lab configurations, testing, documentation, and practical experimentation
 were performed by me in my own virtual lab environment.
 
 ## 📌 Project Information
-Program Name: Cybersecurity at Networkwalks | Week: 02 | Module 5: ZenMap Networ Scanning | Repository: GitHub
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Module 5: ZenMap Network Scanning | Repository: GitHub
 
 ## 📌 Module Status
 
