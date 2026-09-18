@@ -115,7 +115,7 @@ The MAC addresses identified during the scan were documented as follows:
 
 The Zenmap network topology was generated and saved in PDF format.
 
-📄 **Output:** [ZenMap Installation](screenshots/ZenMap_topology.pdf)
+📄 **Output:** (screenshots/ZenMap_topology.pdf)
 ---
 
 ## 💡 Key Takeaways
