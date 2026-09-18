@@ -31,6 +31,7 @@ Download and install Zenmap on the Windows PC.
 Identify the local IP address and LAN subnet before performing network discovery.
 
 **Local IP Address:**
+![ZenMap Installation](screenshots/ZenMap-task2-1.jpg)
 
 ```text
 [INSERT LOCAL IP]
