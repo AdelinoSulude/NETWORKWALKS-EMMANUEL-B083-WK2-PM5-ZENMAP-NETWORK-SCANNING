@@ -35,13 +35,13 @@ Identify the local IP address and LAN subnet before performing network discovery
 ![ZenMap Installation](screenshots/ZenMap-task2-2.jpg)
 
 ```text
-[ 10.149.196.94]
+Local iP: 10.149.196.94
 ```
 
 **LAN Subnet:**
 
 ```text
-[255.255.255.255.0]
+255.255.255.255.0
 ```
 
 📸 **Evidence:** Local IP and subnet configuration screenshot.
