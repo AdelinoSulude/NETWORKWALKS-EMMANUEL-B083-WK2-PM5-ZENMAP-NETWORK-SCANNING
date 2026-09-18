@@ -64,7 +64,7 @@ Scan the local subnet to identify live hosts/PCs.
 Zenmap was used to discover active hosts within the local subnet.
 
 📸 **Evidence:** Zenmap host discovery results.
-![ZenMap Installation](screenshots/ZenMap-task2-3.jpg)
+
 ---
 
 ### 4. Number of Live Hosts
