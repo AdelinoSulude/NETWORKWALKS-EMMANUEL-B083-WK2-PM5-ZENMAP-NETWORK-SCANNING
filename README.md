@@ -142,26 +142,24 @@ Network scanning should only be performed against networks and systems where app
 
 ## 👤 Author
 
-**Adelino Sulude**
+This CyberLab was created and documented by **Adelino Sulude**
+for hands-on cybersecurity practice.
 
-This project was completed as part of the **Networkwalks Cybersecurity Internship Program**.
+**LinkedIn:** [Adelino Sulude](https://www.linkedin.com/in/adelino-sulude/)
 
-All practical scanning, analysis, evidence collection, and documentation in this repository were performed by **Adelino Sulude**.
+## 🙏 Credits
 
-**Focus:** Network & Infrastructure | Cybersecurity
+The training and lab concepts were learned from:
 
----
+- **Waqas Karim** — Cybersecurity Professional, CCIE
+  - Instructor of the cybersecurity training used as a learning reference.
+  - **LinkedIn:** [Waqas Karim](https://www.linkedin.com/in/waqaskarim/)
 
-## 🙏 Training & Credits
+All lab configurations, testing, documentation, and practical experimentation
+were performed by me in my own virtual lab environment.
 
-This project was developed based on the practical exercises and training provided through the **Networkwalks Cybersecurity Internship Program**.
-
-**Training Instructor:**  
-**Waqas Karim — CCIE**
-
-The internship provided the learning material, project requirements, and practical exercises used as the basis for this work.
-
----
+## 📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Module 5: ZenMap Networ Scanning | Repository: GitHub
 
 ## 📌 Module Status
 
