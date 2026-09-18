@@ -18,7 +18,7 @@ Download and install Zenmap on the Windows PC.
 **Status:** ✅ Completed
 
 📸 **Evidence:** Zenmap installation / main interface screenshot.
-![ZenMap Installation](ZenMap-1.jpg)
+![ZenMap Installation](screenshots/ZenMap-1.jpg)
 ---
 
 ### 2. Identify Local IP & LAN Subnet
